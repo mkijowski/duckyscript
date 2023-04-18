@@ -1,0 +1,4 @@
+STRING hello world
+DELAY 10000
+REPEAT 9
+REM should print hello world 10 times with a 10s delay between each print.
